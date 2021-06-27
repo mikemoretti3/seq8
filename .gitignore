@@ -1,0 +1,12 @@
+Debug
+Release
+
+*~
+.*.swp
+
+.settings
+
+# intermediate build output:
+*.exe
+*.o
+*.lo
